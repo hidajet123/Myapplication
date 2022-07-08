@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="e_mail">E-mail</string>
+    <string name="photo">Photo</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log in</string>
+    <string name="empty">"Field is empty"</string>
+    <string name="incorrectPasswordEmail">"Incorrect password or email"</string>
+</resources>
